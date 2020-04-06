@@ -1,2 +1,2 @@
 # portal
-portal.bestjobs.bg
+https://portal.bestjobs.bg/
